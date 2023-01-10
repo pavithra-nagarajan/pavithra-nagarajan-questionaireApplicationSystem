@@ -1,0 +1,7 @@
+tasks:
+  - init: git remote set-url origin git@github.com:pavithra-nagarajan/pavithra-nagarajan-questionaireApplicationSystem.git && sed "s/\r$//" commit-command.sh | bash && gp open README.md
+vscode:
+ extensions:
+   - redhat.java
+   - vscjava.vscode-java-debug
+   - kyntrack.rev-test-run
