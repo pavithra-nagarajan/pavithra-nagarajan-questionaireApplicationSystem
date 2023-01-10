@@ -43,3 +43,8 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+**/node_modules
+history_log.txt
+testCases_log.txt
+commit-command.sh
+
